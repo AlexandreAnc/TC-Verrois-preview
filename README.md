@@ -1,5 +1,7 @@
 # TC Verrois
 
+**Ce projet a été réalisé dans le cadre de mes cours, où nous devions démarcher une association. Toutefois, le site n'a pas été publié suite à certaines contraintes.**
+
 TC Verrois est le site officiel du club de tennis de Verrières en Anjou. Il fournit toutes les informations nécessaires pour rejoindre le club et pratiquer le tennis dans une ambiance conviviale et sportive.
 
 ## Fonctionnalités
@@ -21,5 +23,5 @@ TC Verrois est le site officiel du club de tennis de Verrières en Anjou. Il fou
 - **PHPMailer** : Envoi des messages et notifications par email.
 
 ---
-Projet fictif réalisé à des fins d'apprentissage par groupe de 4 en février 2024
+Projet fictif réalisé à des fins d'apprentissage par groupe de 4 en février 2024.
 
